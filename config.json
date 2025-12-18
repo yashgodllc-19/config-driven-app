@@ -1,0 +1,8 @@
+{
+  "mode": "verbose",
+  "allow_user_input": true,
+  "messages": {
+    "welcome": "Welcome to the config-driven app!",
+    "goodbye": "Goodbye! System shutting down."
+  }
+}
